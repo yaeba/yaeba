@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://stats.xuankentay.com/api?username=yaeba&show_icons=true&theme=monokai&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/yaeba/github-readme-stats)
+
 <!--
 **yaeba/yaeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
