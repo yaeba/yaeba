@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ## 🎓 Certificates
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/052be2f5-715e-4df7-aaa0-e7f576d626cf "HashiCorp Certified: Vault Associate (002)")
 [![CKS: Certified Kubernetes Security Specialist](https://images.credly.com/size/110x110/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png)](http://www.credly.com/badges/3428f526-34d8-48d5-a7fa-01ce27939ad5 "CKS: Certified Kubernetes Security Specialist")
 [![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/b91b6b34-23b7-4e84-913e-dd862173cbb1 "HashiCorp Certified: Terraform Associate (002)")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/f4191cd7-5409-41a7-a089-d6b177bda3d2 "AWS Certified Solutions Architect – Associate")
