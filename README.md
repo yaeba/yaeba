@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/yaeba/yaeba?label=updated)
 
-<a href="https://app.daily.dev/yaeba"><img src="./devcard.png" width="356" alt="Yaeba's Dev Card"/></a>
-
 ## 📊 Github Stats
 
 [![yaeba's GitHub Stats](https://stats.xuankentay.com/api?username=yaeba&show_icons=true&theme=monokai&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/yaeba/github-readme-stats)
